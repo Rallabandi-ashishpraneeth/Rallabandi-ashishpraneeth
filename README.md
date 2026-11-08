@@ -72,14 +72,6 @@ I also practice programming and algorithmic problem-solving to strengthen my pro
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rallabandi-ashishpraneeth&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rallabandi-ashishpraneeth&theme=default&hide_border=true)
-
----
-
 ## Connect With Me
 
 - **LinkedIn:** [Rallabandi Ashish Praneeth](https://www.linkedin.com/in/rallabandi-ashish-praneeth)
