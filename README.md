@@ -18,7 +18,7 @@ My approach revolves around continuous learning, logical thinking, and hands-on 
 ### A Little More About Me
 
 - Pursuing **B.Tech CSE (AI & ML)** at VIT Chennai (2025–2029).
-- Interested in **Software Engineering and Full-Stack Development**.
+- Passionate about **Software Engineering and Full-Stack Development**.
 - Exploring **Artificial Intelligence and Machine Learning**.
 - Currently working on exciting projects across software development and AI.
 - Interested in **Data Structures, Algorithms, and problem-solving**.
